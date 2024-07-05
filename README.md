@@ -6,15 +6,18 @@
 dfx start --clean
 ```
 
-2. Deploy the project
+2. Install the Packages
+```
+npm i -y
+```
+
+3. Deploy the project
 ```
 dfx deploy
 ```
 
-3. Start NPM
+4. Start NPM
 ```
 npm start
-```
-
 
 
